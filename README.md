@@ -38,10 +38,4 @@ The dataset contains detailed e-commerce sales records including fields such as 
 •	Handled missing and duplicate values during preprocessing
 •	Aligned multiple fields for accurate data modelling and visualization
 
-  Conclusion:
-The E-commerce Sales Dashboard project provided valuable practical experience in transforming raw business data into meaningful visual insights using Power BI. By working with sales, profit, customer, and product data, the dashboard successfully highlighted key business metrics and trends that support data-driven decisions. Visual elements such as KPI cards, bar charts, and donut charts helped analyse total revenue, profit distribution, state-wise performance, customer contributions, and payment preferences.
-The project strengthened my understanding of data preparation, Power Query transformations, and DAX calculations. It also improved my ability to organize dashboards with clarity, usability, and professional visual design. Insights such as December being the most profitable month, West Bengal and Maharashtra leading in sales, and high demand for beauty and sports categories helped demonstrate the practical value of analytics.
-This project not only enhanced my technical skills in Power BI but also improved my analytical thinking and presentation abilities. Overall, it provided a strong foundation in business intelligence and dashboard creation, preparing me to apply similar techniques in real-world scenarios.
-
-
 </pre>
